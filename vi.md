@@ -6,4 +6,4 @@
 * [RM](/rm.md)
 * [HISTORY](/history.md)
 * [HOME and ~](/homeAnd~.md)
-* [FILE PATH](/filePath)
+* [FILE PATH](/filePaths.md)
