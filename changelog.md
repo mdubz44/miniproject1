@@ -7,3 +7,5 @@
  Change: Fixed file path for UP/DOWN ARROWS - Matthew Wisniewski
  
  Change: Changed VI to LINUX/VI - Matthew Wisniewski
+
+ Change: Changed repository to REPOSITORY for format consistency in the REPOSITORY File - Matthew Wisniewski
