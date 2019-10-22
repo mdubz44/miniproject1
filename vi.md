@@ -8,4 +8,4 @@
 * [HOME and ~](/homeAnd~.md)
 * [FILE PATH](/filePaths.md)
 * ['TAB' KEY](/tabkey.md)
-* [UP/DOWN ARROWS](upDownArrows.md)
+* [UP/DOWN ARROWS](upDownArrow.md)
