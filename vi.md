@@ -4,3 +4,4 @@
 * [PWD](/pwd.md)
 * [MV](/mv.md)
 * [RM](/rm.md)
+* [HISTORY](/history.md)
