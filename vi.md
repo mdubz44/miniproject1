@@ -5,3 +5,4 @@
 * [MV](/mv.md)
 * [RM](/rm.md)
 * [HISTORY](/history.md)
+* [HOME and ~](/homeAnd~.md)
