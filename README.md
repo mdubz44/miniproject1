@@ -1,4 +1,6 @@
 # miniproject1
 
-*[VI](/vi.md)
+[VI](/vi.md)
+
+
 
