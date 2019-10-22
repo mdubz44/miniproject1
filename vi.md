@@ -2,3 +2,4 @@
 * [MKDIR](/mkdir.md)
 * [CP](/cp.md)
 * [PWD](/pwd.md)
+* [MV](/mv.md)
