@@ -5,3 +5,4 @@
 * [COMMIT](/commit.md)
 * [MERGE](/merge.md)
 * [CHECKOUT](/checkout.md)
+* [PUSH](/push.md)
