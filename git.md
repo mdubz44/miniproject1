@@ -3,3 +3,4 @@
 * [FORK](/fork.md)
 * [BRANCH](/branch.md)
 * [COMMIT](/commit.md)
+* [MERGE](/merge.md)
