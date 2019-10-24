@@ -8,3 +8,4 @@
 * [PUSH](/push.md)
 * [PULL](/pull.md)
 * [REMOTE](/remote.md)
+* [STATUS](/status.md)
