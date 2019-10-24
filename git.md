@@ -7,3 +7,4 @@
 * [CHECKOUT](/checkout.md)
 * [PUSH](/push.md)
 * [PULL](/pull.md)
+* [REMOTE](/remote.md)
