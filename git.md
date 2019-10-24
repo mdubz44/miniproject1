@@ -2,3 +2,4 @@
 * [CLONE](/clone.md)
 * [FORK](/fork.md)
 * [BRANCH](/branch.md)
+* [COMMIT](/commit.md)
