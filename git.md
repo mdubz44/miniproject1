@@ -6,3 +6,4 @@
 * [MERGE](/merge.md)
 * [CHECKOUT](/checkout.md)
 * [PUSH](/push.md)
+* [PULL](/pull.md)
