@@ -4,3 +4,4 @@
 * [BRANCH](/branch.md)
 * [COMMIT](/commit.md)
 * [MERGE](/merge.md)
+* [CHECKOUT](/checkout.md)
